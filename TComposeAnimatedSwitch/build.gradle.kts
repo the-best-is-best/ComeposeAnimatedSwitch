@@ -20,7 +20,7 @@ afterEvaluate {
 
 
             pom {
-                name.set("Media Picker")
+                name.set("Compose Animated Switch")
                 description.set("A Compose library for android that provides for create switch button animated.")
                 url.set("https://github.com/the-best-is-best/ComeposeAnimatedSwitch")
                 licenses {
